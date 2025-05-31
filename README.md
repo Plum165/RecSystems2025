@@ -56,8 +56,12 @@ The label is binary:
 2. Install required packages:
    ```bash
    pip install pandas numpy lightgbm scikit-learn
-
+3. Download the dataset from https://www.kaggle.com/datasets/carrie1/ecommerce-data
+   It was too large to upload on GitHub
 ## 📚 Learning Reflection
 This project was built as part of the FNB DataQuest 2025 challenge. It was my first real experience with recommendation systems, machine learning pipelines, and working with large-scale retail data.
 
 Despite limited time and exam season, I’m proud of what I achieved and excited to explore more advanced techniques (e.g., matrix factorization, neural collaborative filtering) in future iterations.
+
+## NOTE
+The training model for R won't work as I have not included the dataset for it.
